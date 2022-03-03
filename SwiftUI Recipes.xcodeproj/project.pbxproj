@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1BB09DBA27D0E0400024AEC1 /* StickyBottomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB09DB927D0E0400024AEC1 /* StickyBottomButton.swift */; };
 		A53DCA2A27D05A45009A2C75 /* SwiftUI_RecipesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53DCA2927D05A45009A2C75 /* SwiftUI_RecipesApp.swift */; };
 		A53DCA2C27D05A45009A2C75 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53DCA2B27D05A45009A2C75 /* ContentView.swift */; };
 		A53DCA2E27D05A47009A2C75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A53DCA2D27D05A47009A2C75 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1BB09DB927D0E0400024AEC1 /* StickyBottomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickyBottomButton.swift; sourceTree = "<group>"; };
 		A53DCA2627D05A45009A2C75 /* SwiftUI Recipes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Recipes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A53DCA2927D05A45009A2C75 /* SwiftUI_RecipesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_RecipesApp.swift; sourceTree = "<group>"; };
 		A53DCA2B27D05A45009A2C75 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				A53DCA2927D05A45009A2C75 /* SwiftUI_RecipesApp.swift */,
 				A53DCA2B27D05A45009A2C75 /* ContentView.swift */,
+				1BB09DB927D0E0400024AEC1 /* StickyBottomButton.swift */,
 				A53DCA2D27D05A47009A2C75 /* Assets.xcassets */,
 				A53DCA2F27D05A47009A2C75 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				A53DCA2C27D05A45009A2C75 /* ContentView.swift in Sources */,
 				A53DCA2A27D05A45009A2C75 /* SwiftUI_RecipesApp.swift in Sources */,
+				1BB09DBA27D0E0400024AEC1 /* StickyBottomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

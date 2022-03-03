@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftUI Recipes
 //
-//  Created by TI Digital on 03/03/22.
+//  Created by Azura Sakan Taufik on 03/03/22.
 //
 
 import SwiftUI
